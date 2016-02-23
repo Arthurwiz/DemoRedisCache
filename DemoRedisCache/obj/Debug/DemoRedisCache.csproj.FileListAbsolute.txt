@@ -1,0 +1,12 @@
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\DemoRedisCache.dll.config
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\DemoRedisCache.dll
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\DemoRedisCache.pdb
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\Newtonsoft.Json.dll
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\StackExchange.Redis.DataTypes.dll
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\StackExchange.Redis.dll
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\Newtonsoft.Json.xml
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\StackExchange.Redis.pdb
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\bin\StackExchange.Redis.xml
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\obj\Debug\DemoRedisCache.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\obj\Debug\DemoRedisCache.dll
+C:\Users\Arthur\OneDrive\TeachingDeveloper\QandA\DemoRedisCache\DemoRedisCache\DemoRedisCache\obj\Debug\DemoRedisCache.pdb
